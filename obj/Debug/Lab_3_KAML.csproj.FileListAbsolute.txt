@@ -1,0 +1,13 @@
+D:\Users\Kevin\Documentos\c# projects\Laboratorio No 3 K.A.M.L\Lab_3_KAML\bin\Debug\Lab_3_KAML.exe.config
+D:\Users\Kevin\Documentos\c# projects\Laboratorio No 3 K.A.M.L\Lab_3_KAML\bin\Debug\Lab_3_KAML.exe
+D:\Users\Kevin\Documentos\c# projects\Laboratorio No 3 K.A.M.L\Lab_3_KAML\bin\Debug\Lab_3_KAML.pdb
+D:\Users\Kevin\Documentos\c# projects\Laboratorio No 3 K.A.M.L\Lab_3_KAML\obj\Debug\Lab_3_KAML.csproj.AssemblyReference.cache
+D:\Users\Kevin\Documentos\c# projects\Laboratorio No 3 K.A.M.L\Lab_3_KAML\obj\Debug\Lab_3_KAML.csproj.SuggestedBindingRedirects.cache
+D:\Users\Kevin\Documentos\c# projects\Laboratorio No 3 K.A.M.L\Lab_3_KAML\obj\Debug\Lab_3_KAML.Form1.resources
+D:\Users\Kevin\Documentos\c# projects\Laboratorio No 3 K.A.M.L\Lab_3_KAML\obj\Debug\Lab_3_KAML.program1.resources
+D:\Users\Kevin\Documentos\c# projects\Laboratorio No 3 K.A.M.L\Lab_3_KAML\obj\Debug\Lab_3_KAML.program2.resources
+D:\Users\Kevin\Documentos\c# projects\Laboratorio No 3 K.A.M.L\Lab_3_KAML\obj\Debug\Lab_3_KAML.Properties.Resources.resources
+D:\Users\Kevin\Documentos\c# projects\Laboratorio No 3 K.A.M.L\Lab_3_KAML\obj\Debug\Lab_3_KAML.csproj.GenerateResource.cache
+D:\Users\Kevin\Documentos\c# projects\Laboratorio No 3 K.A.M.L\Lab_3_KAML\obj\Debug\Lab_3_KAML.csproj.CoreCompileInputs.cache
+D:\Users\Kevin\Documentos\c# projects\Laboratorio No 3 K.A.M.L\Lab_3_KAML\obj\Debug\Lab_3_KAML.exe
+D:\Users\Kevin\Documentos\c# projects\Laboratorio No 3 K.A.M.L\Lab_3_KAML\obj\Debug\Lab_3_KAML.pdb
